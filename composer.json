@@ -1,0 +1,15 @@
+{
+    "name": "alexnevpryaga/fignel-test-assignment",
+    "type": "project",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "Alex N",
+            "email": "alexnevpryaga@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"FignelTestAssignment\\": "src/"}
+    }
+}
